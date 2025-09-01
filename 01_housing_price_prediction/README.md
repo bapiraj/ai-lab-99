@@ -11,12 +11,12 @@ It includes the full workflow from data loading and preprocessing to model train
 - **Model Used:** Simple Linear Regression (one feature).  
 - **Dataset:** A synthetic dataset of house areas vs. prices.  
 - **Workflow:**  
-  1. [Data Loading](housing_price_prediction.ipynb#data-loading)  
-  2. [Data Exploration & Preprocessing](housing_price_prediction.ipynb#data-exploration--preprocessing)  
-  3. [Model Selection & Training](housing_price_prediction.ipynb#model-selection--training)  
-  4. [Model Interpretation](housing_price_prediction.ipynb#model-interpretation)  
-  5. [Model Evaluation](housing_price_prediction.ipynb#model-evaluation)  
-  6. [Model Deployment](housing_price_prediction.ipynb#model-deployment) 
+  1. Data Loading
+  2. Data Exploration & Preprocessing
+  3. Model Selection & Training
+  4. Model Interpretation
+  5. Model Evaluation
+  6. Model Deployment
 ---
 
 ## ⚙️ Installation
