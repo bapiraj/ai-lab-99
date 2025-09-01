@@ -7,9 +7,9 @@ It includes the full workflow from data loading and preprocessing to model train
 
 ## 📖 Project Description
 
-- **Objective:** Predict the price of a house based on its area.  
-- **Model Used:** Simple Linear Regression (one feature).  
-- **Dataset:** A synthetic dataset of house areas vs. prices.  
+- **Objective:** Predict the price of a house based on its area
+- **Model Used:** Simple Linear Regression (one feature)
+- **Dataset:** A synthetic dataset of house areas vs. prices
 - **Workflow:**  
   1. Data Loading
   2. Data Exploration & Preprocessing
@@ -21,9 +21,16 @@ It includes the full workflow from data loading and preprocessing to model train
 
 ## ⚙️ Setup
 
-Clone the repository and install the required dependencies:
+Clone the repository and install the required dependencies
 
 ```bash
 git clone https://github.com/bapiraj/ai-lab-99.git
 cd 01_housing_price_prediction
 pip install -r requirements.txt
+```
+
+Run streamlit app
+
+```bash
+streamlit run app.py
+```

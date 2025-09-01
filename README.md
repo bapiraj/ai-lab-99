@@ -8,7 +8,7 @@ Each project includes data preparation, model training, evaluation, and deployme
 ## 📂 Projects
 
 1. [Housing Price Prediction using Simple Linear Regression ](01_housing_price_prediction/)  
-   Predict housing prices based on square footage using a simple linear regression model. The model can be deployed in a streamlit application to support real-time user interaction.
+   Predict housing prices based on square footage using a simple linear regression model. The model can be deployed in a streamlit application to support real-time user interaction
 
 ---
 
