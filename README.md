@@ -1,4 +1,4 @@
-# 🧪 AI LAB 99
+# 🧪 ai lab 99
 
 A collection of hands-on machine learning projects exploring different algorithms, workflows, and deployment approaches.  
 Each project includes data preparation, model training, evaluation, and deployment steps.

@@ -19,7 +19,7 @@ It includes the full workflow from data loading and preprocessing to model train
   6. Model Deployment
 ---
 
-## ⚙️ Installation
+## ⚙️ Setup
 
 Clone the repository and install the required dependencies:
 
