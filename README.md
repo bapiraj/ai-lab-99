@@ -19,6 +19,12 @@ Each project includes data preparation, model training, evaluation, and deployme
    - **Model Type:** Multiple Linear Regression (two features)  
    - **Deployment:** Streamlit app for interactive predictions  
 
+3. [Auto Insurance Premium Prediction](03_auto_insurance_premium_prediction/)  
+   - **Objective:** Predict the insurance premium amount  
+   - **Preprocessing:** Binary encoding applied (Yes/No → 1/0)  
+   - **Model Type:** Multiple Linear Regression
+   - **Deployment:** Streamlit app for interactive predictions  
+
 ---
 
 ## 🚀 Getting Started
