@@ -25,6 +25,12 @@ Each project includes data preparation, model training, evaluation, and deployme
    - **Model Type:** Multiple Linear Regression
    - **Deployment:** Streamlit app for interactive predictions  
 
+4. [Movie Streaming Revenue Prediction](04_movie_streaming_revenue_prediction/)  
+   - **Objective:** Predict monthly streaming revenue  
+   - **Preprocessing:** One-Hot Encoding applied to categorical data (subscription plan)  
+   - **Model Type:** Multiple Linear Regression
+   - **Deployment:** Streamlit app for interactive predictions  
+
 ---
 
 ## 🚀 Getting Started
