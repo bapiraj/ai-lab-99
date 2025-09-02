@@ -29,7 +29,13 @@ Each project includes data preparation, model training, evaluation, and deployme
    - **Objective:** Predict monthly streaming revenue  
    - **Preprocessing:** One-Hot Encoding applied to categorical data (subscription plan)  
    - **Model Type:** Multiple Linear Regression
-   - **Deployment:** Streamlit app for interactive predictions  
+   - **Deployment:** Streamlit app for interactive predictions 
+
+5. [Digital Marketing Ad Revenue Prediction](05_digital_marketing_ad_revenue_prediction/)  
+   - **Objective:** Predict weekly digital marketing revenue  
+   - **Preprocessing:** Feature engineering by adding polynomial term (x²)  
+   - **Model Type:** Polynomial Regression (Linear Regression with polynomial features)  
+   - **Deployment:** Streamlit app for interactive predictions   
 
 ---
 
