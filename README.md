@@ -1,4 +1,4 @@
-# 🧪 ai lab 99
+# ai lab 99
 
 A collection of hands-on machine learning projects exploring different algorithms, workflows, and deployment approaches.  
 Each project includes data preparation, model training, evaluation, and deployment steps.
@@ -7,8 +7,17 @@ Each project includes data preparation, model training, evaluation, and deployme
 
 ## 📂 Projects
 
-1. [Housing Price Prediction using Simple Linear Regression ](01_housing_price_prediction/)  
-   Predict housing prices based on square footage using a simple linear regression model. The model can be deployed in a streamlit application to support real-time user interaction
+1. [Housing Price Prediction](01_housing_price_prediction/)  
+   - **Objective:** Predict housing prices  
+   - **Features Used:** Square footage  
+   - **Model Type:** Simple Linear Regression (one feature)  
+   - **Deployment:** Streamlit app for interactive predictions  
+
+2. [Energy Consumption Prediction](02_energy_consumption_prediction/)  
+   - **Objective:** Predict energy consumption  
+   - **Features Used:** Temperature, Humidity  
+   - **Model Type:** Multiple Linear Regression (two features)  
+   - **Deployment:** Streamlit app for interactive predictions  
 
 ---
 
@@ -18,3 +27,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/bapiraj/ai-lab-99.git
+```
