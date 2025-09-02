@@ -1,4 +1,4 @@
-# 📈 Digital Marketing Revenue Prediction (Polynomial Regression)
+# 📈 Digital Marketing Ad Revenue Prediction (Polynomial Regression)
 
 This project demonstrates a **Polynomial Regression** model to predict weekly revenue based on ad spending per week.  
 It includes the full workflow from data loading and preprocessing to model training, interpretation, evaluation, and deployment via a Streamlit app.
